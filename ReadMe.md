@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
-<img align="right" alt="wsupp" width="400" src="https://media0.giphy.com/avatars/ashrafomar__/zo7sIcJiW5EH.gif">
+<img align="right" alt="wsupp" width="400" src="https://i.gifer.com/origin/b3/b398a4990c72116fc77f486fe176662d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mendesgaabriel&label=Profile%20views&color=0e75b6&style=flat" alt="mendesgaabriel" /> </p>
 
