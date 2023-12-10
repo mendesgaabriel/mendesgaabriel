@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
-<img align="right" alt="wsupp" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d5c66ed-060c-4c5f-9e37-ff72ecdd939a/dct1af1-0fce2664-a10f-4088-98fc-14981ff8bab6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkNWM2NmVkLTA2MGMtNGM1Zi05ZTM3LWZmNzJlY2RkOTM5YVwvZGN0MWFmMS0wZmNlMjY2NC1hMTBmLTQwODgtOThmYy0xNDk4MWZmOGJhYjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4rpBb_UNZVM1CrdRdoFv514RF0pLlgksPEGvSYp3Rrg">
+<img align="right" alt="wsupp" width="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d5c66ed-060c-4c5f-9e37-ff72ecdd939a/dct1af1-0fce2664-a10f-4088-98fc-14981ff8bab6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkNWM2NmVkLTA2MGMtNGM1Zi05ZTM3LWZmNzJlY2RkOTM5YVwvZGN0MWFmMS0wZmNlMjY2NC1hMTBmLTQwODgtOThmYy0xNDk4MWZmOGJhYjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4rpBb_UNZVM1CrdRdoFv514RF0pLlgksPEGvSYp3Rrg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mendesgaabriel&label=Profile%20views&color=0e75b6&style=flat" alt="mendesgaabriel" /> </p>
 
