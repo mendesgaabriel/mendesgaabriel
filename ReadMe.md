@@ -24,6 +24,7 @@
       
 </div>
 
+<h3 align="left">🔥   My Stats :</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=mendesgaabriel&theme=jolly&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mendesgaabriel&theme=jolly&hide_border=false)<br/>
