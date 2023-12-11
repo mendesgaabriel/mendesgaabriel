@@ -6,7 +6,7 @@
 
 - 📚 I'm studying Internet Systems at college **IFSUL**
 
-- 🌱 I’m currently learning **C, CS50**
+- 🌱 I’m currently learning **C with CS50, HTML5, CSS3 & JS**
 
 - ⚡ Fun fact **I have over 20M+ views on Youtube (nothing to deal with dev)**
 
